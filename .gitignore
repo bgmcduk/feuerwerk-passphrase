@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.spec
+.venv/
+venv/
+# The build directories of PyInstaller and debhelper are ignored,
+# but dist/ is NOT: the release binaries live there and are part of
+# what people download.
+build/
